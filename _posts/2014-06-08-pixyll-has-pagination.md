@@ -1,9 +1,8 @@
 ---
 layout:     post
-title:      Pixyll has Pagination
-date:       2014-06-08 11:21:29
-summary:    This is an empty post to illustrate the pagination component with Pixyll.
-categories: jekyll pixyll
----
+title:      breathing tentatively
+date:       2020-7-12 20:21:00
+summary:    welcome 2 my realm
+categories: hi
 
-This is an empty post to illustrate the pagination component with Pixyll.
+some how i have made this stupid web site. WElcome
