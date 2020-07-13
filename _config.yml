@@ -7,8 +7,6 @@ baseurl:     ""
 url:         "http://www.basil.moe"
 date_format: "%b %-d, %Y"
 header_pages:
--
--
 
 # Google services
 google_verification:
